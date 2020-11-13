@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+
+    <title>Intitulé de ma page</title>
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300|Sonsie+One" rel="stylesheet" type="text/css">
+    <link rel="stylesheet" type="text/css" href="css/styles.css">
+    
+
+   
+<div style="background-image: url('184174.jpg');">
+
+
+  <body>
+      <div class="container">
+        <div class="navbar">
+          <img src="glasses.png">
+          <nav>
+            <ul>
+              <li><a href="">Produit</a></li>
+              <li><a href="">Contact</a></li>
+              <li><a href="">Equipe</a></li>
+              <li><a href="">Presse</a></li>
+              <li><a href="">Nous rejoindre</a></li>
+              <li><a href="">FAQ</a></li>
+            </ul>
+          </nav>
+          <img src="cart.png" class="cart">
+        </div>
+        
+
+      </div>
+
+
+
+    
+    <main>
+
+      <aside>
+
+
+      </aside>
+
+    </main>
+
+    <footer>
+  
+    </footer>
+
+  </body>
+</html>
