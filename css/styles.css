@@ -102,8 +102,9 @@ div {
 }
 
 h3 {
-    border: 1px solid #CCCCCC;
-    border-radius: 10px;
+    font-family: "BigShouldersStencilText", "Lucida Sans Unicode", "Arial", "sans-serif";
+    border: 1px solid #623475;
+    border-radius: 15px;
     padding: 0 10px;
 }
 
